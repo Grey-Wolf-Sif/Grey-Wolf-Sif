@@ -8,4 +8,4 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grey-Wolf-Sif&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grey-Wolf-Sif&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ##
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grey-Wolf-Sif&repo=Pool_Prep_42)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grey-Wolf-Sif&theme=algolia&repo=Pool_Prep_42)](https://github.com/anuraghazra/github-readme-stats)
